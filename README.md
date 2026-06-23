@@ -108,11 +108,28 @@ Atualmente sou Diretor Executivo da **QSOFT**, empresa especializada em consulto
 📚 Corporate Training
 
 ---
+## 🌐 Vamos nos conectar
 
-## 🌐 Conecte-se
+Se você se interessa por **Data Analytics**, **Inteligência Artificial**, **Governança de Dados**, **Tableau**, **Databricks**, **Cloud** e **transformação digital**, acompanhe os conteúdos que compartilho regularmente.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Gomes_da_Cruz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelogomesdacruz)
+### 👉 Siga-me no LinkedIn
+
+<a href="https://www.linkedin.com/in/marcelogomesdacruz/" target="_blank">
+    <img src="https://img.shields.io/badge/Seguir%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+Compartilho conteúdos sobre:
+
+- 📊 Data Analytics
+- 🤖 Inteligência Artificial
+- ☁️ Cloud Data Platform
+- 📈 Business Intelligence
+- 🏛️ Governança de Dados
+- 🚀 Transformação Digital
+- 💡 Estratégia de Dados
+- 🎓 Treinamentos e Certificações
+- 📢 Cases de clientes e tendências do mercado
 
 ---
 
-> "Dados não geram valor sozinhos. Valor nasce quando transformamos informação em decisões."
+⭐ Se algum projeto ou conteúdo fizer sentido para você, fique à vontade para seguir meu perfil e conectar-se comigo no LinkedIn.
