@@ -79,6 +79,7 @@ Atualmente sou Diretor Executivo da **QSOFT**, empresa especializada em consulto
 - Unimed
 - Grupo Elfa
 - Carrefour
+- DASA
 - +500 projetos entregues
 
 ---
