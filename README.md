@@ -132,4 +132,12 @@ Compartilho conteúdos sobre:
 
 ---
 
+## 🌐 Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Gomes_da_Cruz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcelogomesdacruz)
+
+---
+
+> "Dados não geram valor sozinhos. Valor nasce quando transformamos informação em decisões."
+
 ⭐ Se algum projeto ou conteúdo fizer sentido para você, fique à vontade para seguir meu perfil e conectar-se comigo no LinkedIn.
